@@ -1,0 +1,14 @@
+C:\Users\Anthony\Desktop\Código BS\obj\Debug\net8.0\Código BS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anthony\Desktop\Código BS\obj\Debug\net8.0\Código BS.AssemblyInfoInputs.cache
+C:\Users\Anthony\Desktop\Código BS\obj\Debug\net8.0\Código BS.AssemblyInfo.cs
+C:\Users\Anthony\Desktop\Código BS\obj\Debug\net8.0\Código BS.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\Desktop\Código BS\bin\Debug\net8.0\Código BS.exe
+C:\Users\Anthony\Desktop\Código BS\bin\Debug\net8.0\Código BS.deps.json
+C:\Users\Anthony\Desktop\Código BS\bin\Debug\net8.0\Código BS.runtimeconfig.json
+C:\Users\Anthony\Desktop\Código BS\bin\Debug\net8.0\Código BS.dll
+C:\Users\Anthony\Desktop\Código BS\bin\Debug\net8.0\Código BS.pdb
+C:\Users\Anthony\Desktop\Código BS\obj\Debug\net8.0\Código BS.dll
+C:\Users\Anthony\Desktop\Código BS\obj\Debug\net8.0\refint\Código BS.dll
+C:\Users\Anthony\Desktop\Código BS\obj\Debug\net8.0\Código BS.pdb
+C:\Users\Anthony\Desktop\Código BS\obj\Debug\net8.0\Código BS.genruntimeconfig.cache
+C:\Users\Anthony\Desktop\Código BS\obj\Debug\net8.0\ref\Código BS.dll
